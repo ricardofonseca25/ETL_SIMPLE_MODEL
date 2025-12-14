@@ -11,4 +11,4 @@ Demonstrar um modelo básico de ETL (Extract, Transform, Load), separando respon
 - Estrutura modular
 
 ## Observação
-Projeto criado para fins de estudo e demonstração de conceito.
+Projeto compartilhado para fins de demonstração de conceito.
