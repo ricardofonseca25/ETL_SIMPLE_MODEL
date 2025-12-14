@@ -3,7 +3,7 @@ import axios from 'axios'
 export default async function api_default({ url, method = 'GET', body = '', token = '' } = {}) {
   try {
     const response = await axios({
-      method,s
+      method,
       url,
       headers: {
         accept: 'application/json',
